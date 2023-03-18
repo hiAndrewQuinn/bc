@@ -13,16 +13,29 @@ class BC
         Console.WriteLine("Now input number 2:");
         int num2 = Convert.ToInt32(Console.ReadLine());
         Console.WriteLine("Add or subtract? [asq]");
+        
+        SelectOperator(Console.ReadLine(), num1, num2);
 
-        switch (Console.ReadLine())
+        Console.WriteLine("Thanks for playing!");
+    }
+
+    public static void SelectOperator(string operatorChoice, int num1, int num2)
+    {
+        switch (operatorChoice)
         {
             case "a":
                 Console.WriteLine($"You selected 'add': {num1 + num2}");
+                break;
+            case "s":
+                Console.WriteLine($"You selected 'subtract': {num1 - num2}");
+                break;
+            case "q":
+                Console.WriteLine("'a' = add, 's' = subtract, 'q' = qonfused, please help, anything else = exit.");
                 break;
             default:
                 Console.WriteLine("No clue what to do here. Sorry!");
                 break;
         }
-        Console.WriteLine("Thanks for playing!");
     }
+
 }
