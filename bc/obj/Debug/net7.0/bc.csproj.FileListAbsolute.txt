@@ -1,0 +1,15 @@
+/home/andrew/RiderProjects/bc/bc/bin/Debug/net7.0/bc
+/home/andrew/RiderProjects/bc/bc/bin/Debug/net7.0/bc.deps.json
+/home/andrew/RiderProjects/bc/bc/bin/Debug/net7.0/bc.runtimeconfig.json
+/home/andrew/RiderProjects/bc/bc/bin/Debug/net7.0/bc.dll
+/home/andrew/RiderProjects/bc/bc/bin/Debug/net7.0/bc.pdb
+/home/andrew/RiderProjects/bc/bc/obj/Debug/net7.0/bc.csproj.AssemblyReference.cache
+/home/andrew/RiderProjects/bc/bc/obj/Debug/net7.0/bc.GeneratedMSBuildEditorConfig.editorconfig
+/home/andrew/RiderProjects/bc/bc/obj/Debug/net7.0/bc.AssemblyInfoInputs.cache
+/home/andrew/RiderProjects/bc/bc/obj/Debug/net7.0/bc.AssemblyInfo.cs
+/home/andrew/RiderProjects/bc/bc/obj/Debug/net7.0/bc.csproj.CoreCompileInputs.cache
+/home/andrew/RiderProjects/bc/bc/obj/Debug/net7.0/bc.dll
+/home/andrew/RiderProjects/bc/bc/obj/Debug/net7.0/refint/bc.dll
+/home/andrew/RiderProjects/bc/bc/obj/Debug/net7.0/bc.pdb
+/home/andrew/RiderProjects/bc/bc/obj/Debug/net7.0/bc.genruntimeconfig.cache
+/home/andrew/RiderProjects/bc/bc/obj/Debug/net7.0/ref/bc.dll
